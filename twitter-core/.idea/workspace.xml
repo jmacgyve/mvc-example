@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eef8ef14-b738-4106-add7-a102b0eb4da8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="twitter-core" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="twitter-core" type="f1a62948:ProjectNode" />
+                <item name="twitts" type="2d1252cf:ModuleNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YXJoNkSn5wTtXd5Uva7scMySMU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/feeds/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.sbt.twitts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/feeds/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/twitts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.FeedsStarter">
+    <configuration name="EurekaServerStarter" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="twitter-core.eureka-server.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.sbt.eurekaserver.EurekaServerStarter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeedsStarter" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="twitter-core.feeds.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.sbt.feeds.FeedsStarter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwitterStarter" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="twitter-core.twitts.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.sbt.twitts.TwitterStarter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EurekaServerStarter" />
+      <item itemvalue="Spring Boot.FeedsStarter" />
+      <item itemvalue="Spring Boot.TwitterStarter" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eef8ef14-b738-4106-add7-a102b0eb4da8" name="Default Changelist" comment="" />
+      <created>1583083179238</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583083179238</updated>
+      <workItem from="1583083180455" duration="5379000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="208" width="811" height="669" key="#Project_Structure" timestamp="1583084509865">
+      <screen x="0" y="23" width="1792" height="1040" />
+    </state>
+    <state x="496" y="208" width="811" height="669" key="#Project_Structure/0.23.1792.1040@0.23.1792.1040" timestamp="1583084509865" />
+    <state x="360" y="205" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583094840101">
+      <screen x="0" y="23" width="1792" height="1040" />
+    </state>
+    <state x="360" y="205" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1040@0.23.1792.1040" timestamp="1583094840101" />
+    <state x="655" y="125" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583083451454">
+      <screen x="0" y="23" width="1792" height="1040" />
+    </state>
+    <state x="655" y="125" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1792.1040@0.23.1792.1040" timestamp="1583083451454" />
+    <state x="363" y="147" key="CommitChangelistDialog2" timestamp="1583097512606">
+      <screen x="0" y="23" width="1792" height="1040" />
+    </state>
+    <state x="363" y="147" key="CommitChangelistDialog2/0.23.1792.1040@0.23.1792.1040" timestamp="1583097512606" />
+    <state width="1750" height="284" key="GridCell.Tab.0.bottom" timestamp="1583097430316">
+      <screen x="0" y="23" width="1792" height="1040" />
+    </state>
+    <state width="1750" height="284" key="GridCell.Tab.0.bottom/0.23.1792.1040@0.23.1792.1040" timestamp="1583097430316" />
+    <state width="1750" height="284" key="GridCell.Tab.0.center" timestamp="1583097430315">
+      <screen x="0" y="23" width="1792" height="1040" />
+    </state>
+    <state width="1750" height="284" key="GridCell.Tab.0.center/0.23.1792.1040@0.23.1792.1040" timestamp="1583097430315" />
+    <state width="1750" height="284" key="GridCell.Tab.0.left" timestamp="1583097430315">
+      <screen x="0" y="23" width="1792" height="1040" />
+    </state>
+    <state width="1750" height="284" key="GridCell.Tab.0.left/0.23.1792.1040@0.23.1792.1040" timestamp="1583097430315" />
+    <state width="1750" height="284" key="GridCell.Tab.0.right" timestamp="1583097430316">
+      <screen x="0" y="23" width="1792" height="1040" />
+    </state>
+    <state width="1750" height="284" key="GridCell.Tab.0.right/0.23.1792.1040@0.23.1792.1040" timestamp="1583097430316" />
+    <state width="1750" height="284" key="GridCell.Tab.1.bottom" timestamp="1583097430317">
+      <screen x="0" y="23" width="1792" height="1040" />
+    </state>
+    <state width="1750" height="284" key="GridCell.Tab.1.bottom/0.23.1792.1040@0.23.1792.1040" timestamp="1583097430317" />
+    <state width="1750" height="284" key="GridCell.Tab.1.center" timestamp="1583097430316">
+      <screen x="0" y="23" width="1792" height="1040" />
+    </state>
+    <state width="1750" height="284" key="GridCell.Tab.1.center/0.23.1792.1040@0.23.1792.1040" timestamp="1583097430316" />
+    <state width="1750" height="284" key="GridCell.Tab.1.left" timestamp="1583097430316">
+      <screen x="0" y="23" width="1792" height="1040" />
+    </state>
+    <state width="1750" height="284" key="GridCell.Tab.1.left/0.23.1792.1040@0.23.1792.1040" timestamp="1583097430316" />
+    <state width="1750" height="284" key="GridCell.Tab.1.right" timestamp="1583097430317">
+      <screen x="0" y="23" width="1792" height="1040" />
+    </state>
+    <state width="1750" height="284" key="GridCell.Tab.1.right/0.23.1792.1040@0.23.1792.1040" timestamp="1583097430316" />
+    <state x="384" y="124" key="SettingsEditor" timestamp="1583084672628">
+      <screen x="0" y="23" width="1792" height="1040" />
+    </state>
+    <state x="384" y="124" key="SettingsEditor/0.23.1792.1040@0.23.1792.1040" timestamp="1583084672628" />
+    <state x="273" y="157" key="new project wizard" timestamp="1583084184416">
+      <screen x="0" y="23" width="1792" height="1040" />
+    </state>
+    <state x="273" y="157" key="new project wizard/0.23.1792.1040@0.23.1792.1040" timestamp="1583084184416" />
+    <state x="561" y="254" width="670" height="676" key="search.everywhere.popup" timestamp="1583096102510">
+      <screen x="0" y="23" width="1792" height="1040" />
+    </state>
+    <state x="561" y="254" width="670" height="676" key="search.everywhere.popup/0.23.1792.1040@0.23.1792.1040" timestamp="1583096102510" />
+  </component>
+</project>

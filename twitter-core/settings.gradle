@@ -1,0 +1,5 @@
+rootProject.name = 'twitter-core'
+
+include ':feeds',
+        ':twitts',
+        ':eureka-server'
