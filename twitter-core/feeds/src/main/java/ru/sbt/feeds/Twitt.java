@@ -1,6 +1,6 @@
 package ru.sbt.feeds;
-
 import lombok.Data;
+
 import java.time.LocalDateTime;
 
 @Data
